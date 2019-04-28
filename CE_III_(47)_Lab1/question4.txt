@@ -1,0 +1,2 @@
+From Linear and BInary Search and analysing its time complexities, we came to conclusion that Binary Search is faster compared to Linear Search. 
+Test cases were performed to check the correctness of the algorithm and the graph of the time complexity of the algorithms were generated using matplotlib.
