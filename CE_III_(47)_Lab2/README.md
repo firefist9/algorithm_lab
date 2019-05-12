@@ -8,4 +8,4 @@ The worst and average case has quadratic running time ( O(n^2)).
 In Merge sort both average and worst case has running time O(n*logn).
 
 Insertion sort has running time O(n) for best case, however, the average case is O(n^2) which is greater than 
-O(n*logn) (i.e. merge sort). So, merge sort seems to be effecient for all kinds of ordered data.
+O(n*logn) (i.e. merge sort). So, merge sort seems to be effecient in performance than insertion sort.
