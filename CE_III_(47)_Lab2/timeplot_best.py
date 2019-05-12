@@ -29,5 +29,7 @@ for j in range(l, l*10, l):
 plt.plot(n,t1, label='insertion_sort')
 plt.plot(n,t2, label='merge_sort')
 plt.title('Best Case')
+plt.xlabel('Input size(n)')
+plt.ylabel('Execution time(t)')
 plt.legend()
 plt.show()
