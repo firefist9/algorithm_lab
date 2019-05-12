@@ -1,7 +1,7 @@
 ## Conclusion
 **Insertion Sort**
 The major advantage of this sorting algorithm is that it is simple to implement and efficient for smaller data sets. 
-The best case has a linear running time ( O(n)).In each iteration, the first remaining element of the input is compared with the right-most element of the list.
+The best case has a linear running time ( O(n)).In each iteration, the first remaining element of the input is only compared with the right-most element of the list.
 The worst and average case has quadratic running time ( O(n^2)).
 
 **Merge Sort**
